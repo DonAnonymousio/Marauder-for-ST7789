@@ -1,0 +1,12 @@
+You can use the web updater made by Spacehuhn to install/update the Marauder firmware on your device. Please use the instructions below to update your device.
+hold down boot button and dont let go until i tell you to
+plug in device (with a microusb data cable)
+keep holding button
+Go to the Web Updater
+With your device plugged in, click connect
+Put Files in order of; Bootloader, partitions, bootapp0, INO.bin
+hit program
+wait till the download portion starts and gets to 2%
+finally let go of the button
+wait for downloadd to completely finish and tell you to reset
+unplug the device and plug it back in
